@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Console.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="0" topLine="63" />
+	</File>
+	<File name="Console.h" open="0" top="0" tabpos="0">
+		<Cursor position="577" topLine="0" />
+	</File>
+	<File name="ConsoleMagic.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="ConsoleMagic.h" open="0" top="0" tabpos="0">
+		<Cursor position="292" topLine="0" />
+	</File>
+	<File name="ConsoleMagicApp.h" open="0" top="0" tabpos="0">
+		<Cursor position="439" topLine="0" />
+	</File>
+	<File name="ConsoleManager.h" open="0" top="0" tabpos="0">
+		<Cursor position="294" topLine="21" />
+	</File>
+	<File name="ConsoleManagerWindow.h" open="0" top="0" tabpos="0">
+		<Cursor position="262" topLine="29" />
+	</File>
+	<File name="ConsoleWindow.h" open="0" top="0" tabpos="0">
+		<Cursor position="194" topLine="29" />
+	</File>
+</CodeBlocks_layout_file>
